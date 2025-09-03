@@ -1,4 +1,4 @@
 public class Helloworld{
-public static
+public static void main()
 
 }
